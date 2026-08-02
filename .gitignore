@@ -28,3 +28,5 @@ pnpm-debug.log*
 
 # skills
 .agents/skills/skill-creator
+# Local Netlify folder
+.netlify

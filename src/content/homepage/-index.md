@@ -1,53 +1,61 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "Your operations are unique. Your ERP should be too."
+  content: "1420 Solutions implements and customizes ERPNext for education, hospitality, gyms, manufacturing, real estate, and healthcare businesses — then extends it with custom software, AI tools, and data-driven reporting that generic ERP vendors don't offer."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Fork Deploy and Edit Online 🚀"
-    link: "https://app.sitepins.com/new/clone?name=Astroplate&repository=https://github.com/zeon-studio/astroplate?aff=astroplate"
+    label: "Book a Free Consultation"
+    link: "/contact"
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "ERP Implementation"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: "We deploy and customize ERPNext to match your workflows, not the other way around. Setup, data migration, staff training, and ongoing support are built into every engagement."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Astro and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Astro"
-    image: "/images/service-2.png"
-    content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "ERPNext consulting and needs assessment"
+      - "Configuration, migration, and go-live support"
+      - "Training and change management for your team"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/astroplate"
+      label: "Learn More"
+      link: "/erp-implementation"
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
-    image: "/images/service-3.png"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Custom Software Development"
+    image: "/images/service-2.png"
+    content: "When ERPNext cannot cover a workflow out of the box, we build the missing layer: internal tools, integrations, and workflow automation tailored to your operation."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Bespoke internal tools and integrations"
+      - "Process automation for repetitive work"
+      - "API and custom module development"
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Learn More"
+      link: "/custom-software-development"
+
+  - title: "AI Solutions"
+    image: "/images/service-3.png"
+    content: "Practical AI, not hype. We build automation and analytics tools that plug into your ERP data to reduce manual effort and surface issues earlier."
+    bulletpoints:
+      - "Document processing and data extraction"
+      - "Predictive analytics and anomaly detection"
+      - "Support and operations chatbots"
+    button:
+      enable: true
+      label: "Learn More"
+      link: "/ai-solutions"
+
+  - title: "Data Analysis & Reporting"
+    image: "/images/service-3.png"
+    content: "Quarterly and yearly reporting that turns ERP data into board-ready decision support. We deliver KPI dashboards, trend analysis, and performance reviews on schedule."
+    bulletpoints:
+      - "Quarterly and yearly business insights"
+      - "KPI dashboards and trend analysis"
+      - "Board-ready reporting for leadership"
+    button:
+      enable: true
+      label: "Learn More"
+      link: "/data-analysis-reporting"
 ---
